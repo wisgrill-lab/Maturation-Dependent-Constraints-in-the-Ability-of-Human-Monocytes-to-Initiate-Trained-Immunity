@@ -3,7 +3,6 @@ Markdown_Analysis_trained_immunity
 Michael Eigenschink, MD
 2024-08-17
 
-# Load packages
 
 # Analysis of clinical data
 
