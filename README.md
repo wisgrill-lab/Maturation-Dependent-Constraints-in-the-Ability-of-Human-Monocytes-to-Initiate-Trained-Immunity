@@ -1,6 +1,6 @@
 
 
-Data repository and code repository for the publication "Maturation-Dependent Constraints in the Ability of Human Monocytes to Initiate Trained Immunity"
+Code repository for the publication "Maturation-Dependent Constraints in the Ability of Human Monocytes to Initiate Trained Immunity"
 ================
 Michael Eigenschink, MD
 2024-08-17
